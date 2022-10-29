@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Informant\\.nuget\\packages\\": {}
+    "C:\\Users\\Lutin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Informant\\source\\repos\\work29.10.2022\\work29.10.2022\\work29.10.2022.csproj",
+      "projectUniqueName": "C:\\Users\\Lutin\\Desktop\\Новая папка\\Work29.10.2022\\work29.10.2022\\work29.10.2022.csproj",
       "projectName": "work29.10.2022",
-      "projectPath": "C:\\Users\\Informant\\source\\repos\\work29.10.2022\\work29.10.2022\\work29.10.2022.csproj",
-      "packagesPath": "C:\\Users\\Informant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Informant\\source\\repos\\work29.10.2022\\work29.10.2022\\obj\\",
+      "projectPath": "C:\\Users\\Lutin\\Desktop\\Новая папка\\Work29.10.2022\\work29.10.2022\\work29.10.2022.csproj",
+      "packagesPath": "C:\\Users\\Lutin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lutin\\Desktop\\Новая папка\\Work29.10.2022\\work29.10.2022\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Informant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lutin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
