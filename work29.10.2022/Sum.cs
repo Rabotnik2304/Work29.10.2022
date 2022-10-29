@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Task
 {
-    class Sum
+    public class Sum
     {
         private uint left = 0;
         private uint right = 500;
 
         private uint countNumbers = 0;
 
-        private uint SumDigits(uint number)
+       public uint SumDigits(uint number)
         {
             uint sum = 0;
 

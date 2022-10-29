@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lutin\\Desktop\\Новая папка\\Work29.10.2022\\work29.10.2022\\work29.10.2022.csproj": {}
+    "C:\\Users\\Informant\\source\\repos\\work29.10.2022\\work29.10.2022\\work29.10.2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lutin\\Desktop\\Новая папка\\Work29.10.2022\\work29.10.2022\\work29.10.2022.csproj": {
+    "C:\\Users\\Informant\\source\\repos\\work29.10.2022\\work29.10.2022\\work29.10.2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lutin\\Desktop\\Новая папка\\Work29.10.2022\\work29.10.2022\\work29.10.2022.csproj",
+        "projectUniqueName": "C:\\Users\\Informant\\source\\repos\\work29.10.2022\\work29.10.2022\\work29.10.2022.csproj",
         "projectName": "work29.10.2022",
-        "projectPath": "C:\\Users\\Lutin\\Desktop\\Новая папка\\Work29.10.2022\\work29.10.2022\\work29.10.2022.csproj",
-        "packagesPath": "C:\\Users\\Lutin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lutin\\Desktop\\Новая папка\\Work29.10.2022\\work29.10.2022\\obj\\",
+        "projectPath": "C:\\Users\\Informant\\source\\repos\\work29.10.2022\\work29.10.2022\\work29.10.2022.csproj",
+        "packagesPath": "C:\\Users\\Informant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Informant\\source\\repos\\work29.10.2022\\work29.10.2022\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lutin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Informant\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
